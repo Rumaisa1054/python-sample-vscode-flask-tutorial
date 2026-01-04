@@ -5,9 +5,6 @@
 trigger:
 - main
 
-pool:
-  name: Default
-
 resources:
 - repo: self
 
